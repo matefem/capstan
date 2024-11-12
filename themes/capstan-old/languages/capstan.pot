@@ -1,0 +1,742 @@
+# Copyright (C) 2021 60fps
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Capstan 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/capstan\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-12T08:16:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: capstan\n"
+
+#. Theme Name of the theme
+msgid "Capstan"
+msgstr ""
+
+#. Description of the theme
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr ""
+
+#. Author of the theme
+msgid "60fps"
+msgstr ""
+
+#: 404.php:17
+msgid "Cette page n'existe pas..."
+msgstr ""
+
+#: 404.php:18
+msgid "Nous nous excusons pour le désagrément"
+msgstr ""
+
+#: 404.php:19
+msgid "RETOUR À L'ACCUEIL"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page : Articles"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page : Home"
+msgstr ""
+
+#: inc/helpers.php:114
+msgid "Avocat Associé"
+msgstr ""
+
+#: inc/helpers.php:115
+msgid "Avocat of Counsel"
+msgstr ""
+
+#: inc/helpers.php:116
+msgid "Avocat Senior"
+msgstr ""
+
+#: inc/helpers.php:117
+msgid "Avocat"
+msgstr ""
+
+#: inc/helpers.php:118
+msgid "Personnel Administratif"
+msgstr ""
+
+#: inc/menus.php:6
+msgid "Header Notre identité"
+msgstr ""
+
+#: inc/menus.php:7
+msgid "Header Vous accompagner"
+msgstr ""
+
+#: inc/menus.php:8
+msgid "Header En France"
+msgstr ""
+
+#: inc/menus.php:9
+msgid "Header Autres"
+msgstr ""
+
+#: inc/menus.php:10
+msgid "Header Nous Rejoindre"
+msgstr ""
+
+#: inc/menus.php:11
+msgid "Nav Nous contacter"
+msgstr ""
+
+#: inc/menus.php:12
+msgid "Footer Terms & conditions"
+msgstr ""
+
+#: inc/menus.php:13
+msgid "Footer A propos"
+msgstr ""
+
+#: inc/menus.php:14
+msgid "Réseaux sociaux"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:65
+#: templates/modules/12-grid.php:66
+#: templates/modules/28-formation.php:68
+msgid "Filtrer par"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:68
+#: templates/modules/12-grid.php:69
+#: templates/modules/28-formation.php:71
+msgid "Recherche par nom..."
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:72
+#: resources/templates/modules/12-grid.php:75
+#: resources/templates/modules/12-grid.php:81
+#: templates/modules/12-grid.php:73
+#: templates/modules/12-grid.php:76
+#: templates/modules/12-grid.php:82
+#: templates/modules/28-formation.php:74
+#: templates/modules/28-formation.php:76
+#: templates/modules/28-formation.php:82
+msgid "Tous les bureaux"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:88
+#: resources/templates/modules/12-grid.php:91
+#: resources/templates/modules/12-grid.php:97
+#: templates/modules/12-grid.php:89
+#: templates/modules/12-grid.php:92
+#: templates/modules/12-grid.php:98
+msgid "Toutes les fonctions"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:118
+#: templates/modules/12-grid.php:119
+#: templates/modules/23-postes.php:32
+#: templates/modules/43-selection-postes.php:74
+msgid "Bureau"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:135
+#: templates/modules/12-grid.php:136
+msgid "VOIR LE PROFIL"
+msgstr ""
+
+#: resources/templates/modules/12-grid.php:147
+msgid "VOIR PLUS D’AVOCATS"
+msgstr ""
+
+#: single-career.php:13
+msgid "Lieu"
+msgstr ""
+
+#: single-career.php:14
+#: templates/modules/23-postes.php:31
+#: templates/modules/43-selection-postes.php:73
+msgid "Type de contrat"
+msgstr ""
+
+#: single-career.php:15
+msgid "Début"
+msgstr ""
+
+#: single-career.php:23
+#: single-career.php:36
+msgid "À propos de Capstan"
+msgstr ""
+
+#: single-formation.php:62
+msgid "Dates de la formation"
+msgstr ""
+
+#: single-formation.php:76
+msgid "Formateurs"
+msgstr ""
+
+#: single-formation.php:123
+#: single-formation.php:125
+#: single-lawyer.php:39
+#: single-lawyer.php:69
+msgid "Adresse"
+msgstr ""
+
+#: single-formation.php:127
+#: single-lawyer.php:43
+#: single-lawyer.php:73
+msgid "Téléphone"
+msgstr ""
+
+#: single-formation.php:130
+#: single-lawyer.php:49
+#: single-lawyer.php:79
+msgid "Mail"
+msgstr ""
+
+#: single-formation.php:133
+msgid "Voir l'itinéraire "
+msgstr ""
+
+#: single-formation.php:167
+msgid "Dates et programme"
+msgstr ""
+
+#: single-formation.php:183
+msgid "Demande d’information et inscription"
+msgstr ""
+
+#: single-formation.php:201
+msgid "S'enregistrer"
+msgstr ""
+
+#: single-formation.php:207
+msgid "Félicitations, votre inscription a bien été prise en compte."
+msgstr ""
+
+#: single-formation.php:208
+msgid "Vous recevrez un mail de confirmation dans quelques minutes."
+msgstr ""
+
+#: single-formation.php:211
+msgid "Vous pouvez ajouter cette formation à votre calendrier."
+msgstr ""
+
+#: single-formation.php:212
+msgid "Ajouter au calendrier"
+msgstr ""
+
+#: single-office.php:90
+msgid "Domaines d’intervention"
+msgstr ""
+
+#: single-office.php:99
+msgid "Informations"
+msgstr ""
+
+#: single-office.php:127
+msgid "L’équipe sur place"
+msgstr ""
+
+#: single-office.php:145
+#: templates/modules/12-grid.php:148
+msgid "VOIR PLUS DE COLLABORATEURS"
+msgstr ""
+
+#: templates/modules/01-hero.php:20
+msgid "Cliquez et maintenez"
+msgstr ""
+
+#: templates/modules/05-bureau.php:65
+msgid "Nous contacter"
+msgstr ""
+
+#: templates/modules/06-inter.php:18
+msgid "Biélorussie"
+msgstr ""
+
+#: templates/modules/06-inter.php:19
+msgid "Bulgarie"
+msgstr ""
+
+#: templates/modules/06-inter.php:20
+msgid "Croatie"
+msgstr ""
+
+#: templates/modules/06-inter.php:21
+msgid "République Tchèque"
+msgstr ""
+
+#: templates/modules/06-inter.php:22
+msgid "Estonie"
+msgstr ""
+
+#: templates/modules/06-inter.php:23
+msgid "Hongrie"
+msgstr ""
+
+#: templates/modules/06-inter.php:24
+msgid "Kazakhstan"
+msgstr ""
+
+#: templates/modules/06-inter.php:25
+msgid "Lettonie"
+msgstr ""
+
+#: templates/modules/06-inter.php:26
+msgid "Lituanie"
+msgstr ""
+
+#: templates/modules/06-inter.php:27
+msgid "Pologne"
+msgstr ""
+
+#: templates/modules/06-inter.php:28
+msgid "Russie"
+msgstr ""
+
+#: templates/modules/06-inter.php:29
+msgid "Slovaquie"
+msgstr ""
+
+#: templates/modules/06-inter.php:30
+msgid "Ukraine"
+msgstr ""
+
+#: templates/modules/06-inter.php:31
+msgid "Argentine"
+msgstr ""
+
+#: templates/modules/06-inter.php:32
+msgid "Brésil"
+msgstr ""
+
+#: templates/modules/06-inter.php:33
+msgid "Chili"
+msgstr ""
+
+#: templates/modules/06-inter.php:34
+msgid "Colombie"
+msgstr ""
+
+#: templates/modules/06-inter.php:35
+msgid "Mexique"
+msgstr ""
+
+#: templates/modules/06-inter.php:36
+msgid "Pérou"
+msgstr ""
+
+#: templates/modules/06-inter.php:37
+msgid "Venezuela"
+msgstr ""
+
+#: templates/modules/06-inter.php:38
+msgid "Australie"
+msgstr ""
+
+#: templates/modules/06-inter.php:39
+msgid "Bahreïn"
+msgstr ""
+
+#: templates/modules/06-inter.php:40
+msgid "Chine"
+msgstr ""
+
+#: templates/modules/06-inter.php:41
+msgid "Inde"
+msgstr ""
+
+#: templates/modules/06-inter.php:42
+msgid "Israel"
+msgstr ""
+
+#: templates/modules/06-inter.php:43
+msgid "Japon"
+msgstr ""
+
+#: templates/modules/06-inter.php:44
+msgid "Nouvelle-Zélande"
+msgstr ""
+
+#: templates/modules/06-inter.php:45
+msgid "Arabie Saoudite"
+msgstr ""
+
+#: templates/modules/06-inter.php:46
+msgid "Singapour"
+msgstr ""
+
+#: templates/modules/06-inter.php:47
+msgid "Corée du Sud"
+msgstr ""
+
+#: templates/modules/06-inter.php:48
+msgid "Thaïlande"
+msgstr ""
+
+#: templates/modules/06-inter.php:49
+msgid "Turquie"
+msgstr ""
+
+#: templates/modules/06-inter.php:50
+msgid "Émirats Arabes Unis"
+msgstr ""
+
+#: templates/modules/06-inter.php:51
+msgid "Canada"
+msgstr ""
+
+#: templates/modules/06-inter.php:52
+msgid "États-Unis"
+msgstr ""
+
+#: templates/modules/06-inter.php:53
+msgid "Autriche"
+msgstr ""
+
+#: templates/modules/06-inter.php:54
+msgid "Belgique"
+msgstr ""
+
+#: templates/modules/06-inter.php:55
+msgid "Chypre"
+msgstr ""
+
+#: templates/modules/06-inter.php:56
+msgid "Danemark"
+msgstr ""
+
+#: templates/modules/06-inter.php:57
+msgid "Finlande"
+msgstr ""
+
+#: templates/modules/06-inter.php:58
+msgid "Allemagne"
+msgstr ""
+
+#: templates/modules/06-inter.php:59
+msgid "Grèce"
+msgstr ""
+
+#: templates/modules/06-inter.php:60
+msgid "Irlande"
+msgstr ""
+
+#: templates/modules/06-inter.php:61
+msgid "Italie"
+msgstr ""
+
+#: templates/modules/06-inter.php:62
+msgid "Luxembourg"
+msgstr ""
+
+#: templates/modules/06-inter.php:63
+msgid "Malte"
+msgstr ""
+
+#: templates/modules/06-inter.php:64
+msgid "Norvège"
+msgstr ""
+
+#: templates/modules/06-inter.php:65
+msgid "Portugal"
+msgstr ""
+
+#: templates/modules/06-inter.php:66
+msgid "Pays-Bas"
+msgstr ""
+
+#: templates/modules/06-inter.php:67
+msgid "Roumanie"
+msgstr ""
+
+#: templates/modules/06-inter.php:68
+msgid "Serbie"
+msgstr ""
+
+#: templates/modules/06-inter.php:69
+msgid "Slovénie"
+msgstr ""
+
+#: templates/modules/06-inter.php:70
+msgid "Espagne"
+msgstr ""
+
+#: templates/modules/06-inter.php:71
+msgid "Suède"
+msgstr ""
+
+#: templates/modules/06-inter.php:72
+msgid "Suisse"
+msgstr ""
+
+#: templates/modules/06-inter.php:73
+msgid "Royaume-Uni"
+msgstr ""
+
+#: templates/modules/22-formation.php:51
+msgid "Les formations disponibles à"
+msgstr ""
+
+#: templates/modules/22-formation.php:68
+#: templates/modules/28-formation.php:129
+msgid "dates disponibles"
+msgstr ""
+
+#: templates/modules/22-formation.php:82
+#: templates/modules/28-formation.php:128
+msgid "Horaires"
+msgstr ""
+
+#: templates/modules/22-formation.php:82
+msgid "de"
+msgstr ""
+
+#: templates/modules/22-formation.php:82
+msgid "à"
+msgstr ""
+
+#: templates/modules/22-formation.php:86
+msgid "En savoir plus"
+msgstr ""
+
+#: templates/modules/23-postes.php:23
+msgid "Nos postes ouverts à"
+msgstr ""
+
+#: templates/modules/23-postes.php:30
+#: templates/modules/43-selection-postes.php:72
+msgid "Postes"
+msgstr ""
+
+#: templates/modules/23-postes.php:42
+#: templates/modules/43-selection-postes.php:83
+msgid "Publié il y a"
+msgstr ""
+
+#: templates/modules/23-postes.php:45
+#: templates/modules/43-selection-postes.php:86
+msgid "CONTRAT"
+msgstr ""
+
+#: templates/modules/23-postes.php:49
+#: templates/modules/43-selection-postes.php:90
+msgid "BUREAU"
+msgstr ""
+
+#: templates/modules/28-formation.php:89
+#: templates/modules/28-formation.php:91
+#: templates/modules/28-formation.php:96
+msgid "Tous les types de formation"
+msgstr ""
+
+#: templates/modules/28-formation.php:92
+#: templates/modules/28-formation.php:97
+msgid "Formations ponctuelles"
+msgstr ""
+
+#: templates/modules/28-formation.php:93
+#: templates/modules/28-formation.php:98
+msgid "Formations récurrentes"
+msgstr ""
+
+#: templates/modules/28-formation.php:153
+msgid "Voir plus de formations"
+msgstr ""
+
+#: templates/modules/39-contact.php:49
+#: templates/modules/39-contact.php:66
+msgid "Un accompagnement"
+msgstr ""
+
+#: templates/modules/39-contact.php:53
+#: templates/modules/39-contact.php:67
+msgid "Une canditature"
+msgstr ""
+
+#: templates/modules/39-contact.php:57
+#: templates/modules/39-contact.php:68
+msgid "Un autre sujet"
+msgstr ""
+
+#: templates/modules/39-contact.php:61
+#: templates/modules/39-contact.php:69
+msgid "Presse"
+msgstr ""
+
+#: templates/modules/39-contact.php:74
+msgid "Bonjour à l’équipe Capstan,"
+msgstr ""
+
+#: templates/modules/39-contact.php:75
+msgid "J'aimerais être contacté par le bureau de "
+msgstr ""
+
+#: templates/modules/39-contact.php:76
+msgid "Paris"
+msgstr ""
+
+#: templates/modules/39-contact.php:83
+msgid "au sujet de  :"
+msgstr ""
+
+#: templates/modules/39-contact.php:84
+msgid "Votre message"
+msgstr ""
+
+#: templates/modules/39-contact.php:88
+msgid "Je travaille chez "
+msgstr ""
+
+#: templates/modules/39-contact.php:89
+msgid "Nom de votre entreprise"
+msgstr ""
+
+#: templates/modules/39-contact.php:90
+msgid " au poste de  "
+msgstr ""
+
+#: templates/modules/39-contact.php:91
+msgid "Nom de votre fonction"
+msgstr ""
+
+#: templates/modules/39-contact.php:92
+msgid "Vous pouvez me joindre via l’adresse mail suivante"
+msgstr ""
+
+#: templates/modules/39-contact.php:93
+msgid "Votre email"
+msgstr ""
+
+#: templates/modules/39-contact.php:94
+msgid "ou par téléphone au"
+msgstr ""
+
+#: templates/modules/39-contact.php:95
+msgid "Votre téléphone"
+msgstr ""
+
+#: templates/modules/39-contact.php:102
+msgid "Cordialement"
+msgstr ""
+
+#: templates/modules/39-contact.php:103
+msgid "Bien à vous"
+msgstr ""
+
+#: templates/modules/39-contact.php:104
+msgid "À bientôt"
+msgstr ""
+
+#: templates/modules/39-contact.php:105
+msgid "Respectueusement"
+msgstr ""
+
+#: templates/modules/39-contact.php:106
+msgid "Bonne réception"
+msgstr ""
+
+#: templates/modules/39-contact.php:107
+msgid "See you"
+msgstr ""
+
+#: templates/modules/39-contact.php:108
+msgid "Regards"
+msgstr ""
+
+#: templates/modules/39-contact.php:109
+msgid "All the best"
+msgstr ""
+
+#: templates/modules/39-contact.php:112
+msgid "Votre nom"
+msgstr ""
+
+#: templates/modules/39-contact.php:117
+msgid "Envoyer votre message"
+msgstr ""
+
+#: templates/modules/39-contact.php:127
+msgid "Merci beaucoup pour votre message"
+msgstr ""
+
+#: templates/modules/39-contact.php:128
+msgid "Nous nous recontacterons dans les meilleurs délais"
+msgstr ""
+
+#: templates/modules/39-contact.php:134
+msgid "Envoyer un nouveau message"
+msgstr ""
+
+#: templates/modules/39-contact.php:144
+msgid "Retour à la page d'accueil"
+msgstr ""
+
+#: templates/modules/41-talent-head.php:13
+msgid "Carrières"
+msgstr ""
+
+#: templates/modules/43-selection-postes.php:46
+msgid "Je souhaite rejoindre Capstan à "
+msgstr ""
+
+#: templates/modules/43-selection-postes.php:50
+#: templates/modules/43-selection-postes.php:60
+msgid "Tous"
+msgstr ""
+
+#: templates/modules/43-selection-postes.php:56
+msgid "au poste :"
+msgstr ""
+
+#: templates/modules/43-selection-postes.php:83
+msgid "jours"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:2
+msgid "Inscription"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:3
+msgid "Création de compte"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:5
+msgid "Veuillez saisir les informations ci-dessous pour la création de votre compte"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:14
+msgid "En créant un compte, vous acceptez"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:18
+msgid "Vous avez déjà un compte ?"
+msgstr ""
+
+#: templates/pages/profile/sign-up.php:18
+msgid "Se connecter"
+msgstr ""
+
+#: templates/partials/footer.php:40
+msgid "200 avocats experts en droit social, créateurs de solutions."
+msgstr ""
+
+#: templates/partials/footer.php:45
+msgid "Nos bureaux"
+msgstr ""
+
+#: templates/partials/footer.php:63
+msgid "A propos"
+msgstr ""
+
+#: templates/partials/footer.php:77
+msgid "2020 Capstan Copyrights, All Rights Reserved"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page : Terms & Conditions"
+msgstr ""

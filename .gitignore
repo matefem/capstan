@@ -1,0 +1,42 @@
+# Ignore everything in wp-content by default
+/wp-content/*
+
+# Allow themes and plugins folders
+!/wp-content/themes/
+!/wp-content/plugins/
+
+# Ignore specific theme and plugin files that shouldn't be versioned
+/wp-content/themes/*/node_modules/
+/wp-content/themes/*/vendor/
+/wp-content/themes/*/dist/
+/wp-content/themes/*/build/
+/wp-content/plugins/*/node_modules/
+/wp-content/plugins/*/vendor/
+/wp-content/plugins/*/dist/
+/wp-content/plugins/*/build/
+
+# Ignore uploaded media files
+/wp-content/uploads/
+
+# Ignore cache files if any
+/wp-content/cache/
+
+# Ignore language files
+/wp-content/languages/
+
+# Ignore backups or temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore compiled CSS, JS files, or source maps if applicable
+*.map
+*.min.js
+*.min.css
+
+# Exclude sensitive or configuration files
+wp-config.php
+wp-config-*.php
+
